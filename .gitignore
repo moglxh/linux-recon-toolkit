@@ -1,0 +1,14 @@
+# Compiled binaries
+tools/calc_demo
+tools/debug_demo
+tools/exec_demo
+tools/fork_demo
+tools/launcher
+tools/proc_info
+tools/register_demo
+tools/signal_demo
+tools/stripped
+
+# Temporary files
+*.o
+*.out
